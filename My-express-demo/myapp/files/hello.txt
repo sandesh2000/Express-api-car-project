@@ -1,0 +1,6 @@
+HTML:
+
+1) Create your Bio-Data using HTML tags
+2) Login page ( implement validations)
+3) Registration page ( implement validations eg. required, pattern)
+

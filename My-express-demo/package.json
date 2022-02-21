@@ -1,0 +1,16 @@
+{
+  "name": "app_package",
+  "version": "1.0.0",
+  "description": "User API demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "oracledb": "^5.3.0"
+  }
+}
